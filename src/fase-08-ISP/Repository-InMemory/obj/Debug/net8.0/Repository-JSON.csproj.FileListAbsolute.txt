@@ -1,0 +1,15 @@
+c:\Projects\Interfaces\src\fase-08-ISP\Repository-InMemory\bin\Debug\net8.0\Repository-JSON.exe
+c:\Projects\Interfaces\src\fase-08-ISP\Repository-InMemory\bin\Debug\net8.0\Repository-JSON.deps.json
+c:\Projects\Interfaces\src\fase-08-ISP\Repository-InMemory\bin\Debug\net8.0\Repository-JSON.runtimeconfig.json
+c:\Projects\Interfaces\src\fase-08-ISP\Repository-InMemory\bin\Debug\net8.0\Repository-JSON.dll
+c:\Projects\Interfaces\src\fase-08-ISP\Repository-InMemory\bin\Debug\net8.0\Repository-JSON.pdb
+c:\Projects\Interfaces\src\fase-08-ISP\Repository-InMemory\obj\Debug\net8.0\Repository-JSON.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projects\Interfaces\src\fase-08-ISP\Repository-InMemory\obj\Debug\net8.0\Repository-JSON.AssemblyInfoInputs.cache
+c:\Projects\Interfaces\src\fase-08-ISP\Repository-InMemory\obj\Debug\net8.0\Repository-JSON.AssemblyInfo.cs
+c:\Projects\Interfaces\src\fase-08-ISP\Repository-InMemory\obj\Debug\net8.0\Repository-JSON.csproj.CoreCompileInputs.cache
+c:\Projects\Interfaces\src\fase-08-ISP\Repository-InMemory\obj\Debug\net8.0\Repository-JSON.sourcelink.json
+c:\Projects\Interfaces\src\fase-08-ISP\Repository-InMemory\obj\Debug\net8.0\Repository-JSON.dll
+c:\Projects\Interfaces\src\fase-08-ISP\Repository-InMemory\obj\Debug\net8.0\refint\Repository-JSON.dll
+c:\Projects\Interfaces\src\fase-08-ISP\Repository-InMemory\obj\Debug\net8.0\Repository-JSON.pdb
+c:\Projects\Interfaces\src\fase-08-ISP\Repository-InMemory\obj\Debug\net8.0\Repository-JSON.genruntimeconfig.cache
+c:\Projects\Interfaces\src\fase-08-ISP\Repository-InMemory\obj\Debug\net8.0\ref\Repository-JSON.dll
