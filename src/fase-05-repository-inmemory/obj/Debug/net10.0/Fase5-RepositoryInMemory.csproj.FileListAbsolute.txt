@@ -1,0 +1,15 @@
+C:\Projects\Interfaces\src\fase-05-repository-inmemory\obj\Debug\net10.0\Fase5-RepositoryInMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Interfaces\src\fase-05-repository-inmemory\obj\Debug\net10.0\Fase5-RepositoryInMemory.AssemblyInfoInputs.cache
+C:\Projects\Interfaces\src\fase-05-repository-inmemory\obj\Debug\net10.0\Fase5-RepositoryInMemory.AssemblyInfo.cs
+C:\Projects\Interfaces\src\fase-05-repository-inmemory\obj\Debug\net10.0\Fase5-RepositoryInMemory.csproj.CoreCompileInputs.cache
+C:\Projects\Interfaces\src\fase-05-repository-inmemory\obj\Debug\net10.0\Fase5-RepositoryInMemory.sourcelink.json
+C:\Projects\Interfaces\src\fase-05-repository-inmemory\bin\Debug\net10.0\Fase5-RepositoryInMemory.exe
+C:\Projects\Interfaces\src\fase-05-repository-inmemory\bin\Debug\net10.0\Fase5-RepositoryInMemory.deps.json
+C:\Projects\Interfaces\src\fase-05-repository-inmemory\bin\Debug\net10.0\Fase5-RepositoryInMemory.runtimeconfig.json
+C:\Projects\Interfaces\src\fase-05-repository-inmemory\bin\Debug\net10.0\Fase5-RepositoryInMemory.dll
+C:\Projects\Interfaces\src\fase-05-repository-inmemory\bin\Debug\net10.0\Fase5-RepositoryInMemory.pdb
+C:\Projects\Interfaces\src\fase-05-repository-inmemory\obj\Debug\net10.0\Fase5-RepositoryInMemory.dll
+C:\Projects\Interfaces\src\fase-05-repository-inmemory\obj\Debug\net10.0\refint\Fase5-RepositoryInMemory.dll
+C:\Projects\Interfaces\src\fase-05-repository-inmemory\obj\Debug\net10.0\Fase5-RepositoryInMemory.pdb
+C:\Projects\Interfaces\src\fase-05-repository-inmemory\obj\Debug\net10.0\Fase5-RepositoryInMemory.genruntimeconfig.cache
+C:\Projects\Interfaces\src\fase-05-repository-inmemory\obj\Debug\net10.0\ref\Fase5-RepositoryInMemory.dll

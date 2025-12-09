@@ -11,4 +11,6 @@
 - [Fase 1](src/fase-01-procedural/fase01.md)
 - [Fase 2](src/fase-02-oo-sem-interface/fase02.md)
 - [Fase 3 — OO com Herança e Polimorfismo](src/fase-03-oo-com-heranca/fase03.md)
+- [Fase 4 — Interface Plugável e Testável](src/fase-04-com-interfaces/fase04.md)
+- [Fase 5 — Repository InMemory](src/fase-05-repository-inmemory/fase05.md)
 - [Fase 8](src/fase-08-ISP/)
