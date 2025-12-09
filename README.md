@@ -14,4 +14,5 @@
 - [Fase 4 — Interface Plugável e Testável](src/fase-04-com-interfaces/fase04.md)
 - [Fase 5 — Repository InMemory](src/fase-05-repository-inmemory/fase05.md)
 - [Fase 6 — Repository CSV](src/fase-06-repository-csv/fase06.md)
+- [Fase 7 — Repository JSON](src/fase-07-repository-json/fase07.md)
 - [Fase 8](src/fase-08-ISP/)
