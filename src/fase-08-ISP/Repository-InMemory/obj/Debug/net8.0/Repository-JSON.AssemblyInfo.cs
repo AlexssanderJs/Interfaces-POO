@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Repository-JSON")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b29dcdddbe8a65a366de97268c9b1ba69b36458")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7e3618b9f954e02f488c575058a16964eb18f53")]
 [assembly: System.Reflection.AssemblyProductAttribute("Repository-JSON")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Repository-JSON")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
