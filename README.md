@@ -16,3 +16,4 @@
 - [Fase 6 — Repository CSV](src/fase-06-repository-csv/fase06.md)
 - [Fase 7 — Repository JSON](src/fase-07-repository-json/fase07.md)
 - [Fase 8](src/fase-08-ISP/)
+- [Fase 9 — Dublês assíncronos](src/fase-09-dubles-async/fase09.md)
