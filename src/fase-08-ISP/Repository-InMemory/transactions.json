@@ -34,5 +34,29 @@
     "Amount": 59.90,
     "Description": "Pagamento d\u00E9bito",
     "Date": "2025-11-24T11:14:27.5399568-03:00"
+  },
+  {
+    "Id": 8,
+    "Amount": 150.00,
+    "Description": "Transfer\u00EAncia PIX",
+    "Date": "2025-12-09T00:23:24.9313848-03:00"
+  },
+  {
+    "Id": 9,
+    "Amount": 59.90,
+    "Description": "Pagamento d\u00E9bito",
+    "Date": "2025-12-09T00:23:24.9314413-03:00"
+  },
+  {
+    "Id": 10,
+    "Amount": 150.00,
+    "Description": "Transfer\u00EAncia PIX",
+    "Date": "2025-12-09T00:26:28.527081-03:00"
+  },
+  {
+    "Id": 11,
+    "Amount": 59.90,
+    "Description": "Pagamento d\u00E9bito",
+    "Date": "2025-12-09T00:26:28.5271369-03:00"
   }
 ]
