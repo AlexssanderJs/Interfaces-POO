@@ -18,16 +18,29 @@
 - [Fase 8](src/fase-08-ISP/)
 - [Fase 9 — Dublês assíncronos](src/fase-09-dubles-async/fase09.md)
 - [Fase 10 — Cheiros e antídotos](src/fase-10-cheiros-antidotos/fase10.md)
+- [Fase 11 — Mini-projeto de consolidação](src/fase-11-mini-projeto/README.md)
 
 ## Como executar testes
 
 - Fase 10: `dotnet run --project src/fase-10-cheiros-antidotos/Fase10-CheirosAntidotos.csproj`
+- Fase 11: `dotnet run --project src/fase-11-mini-projeto/Fase11-MiniProjeto.csproj` (testes + demo)
 - Demais fases: seguir instruções específicas em cada README ou `Program.cs` de cada fase.
 
-## Decisões de design (Fase 10)
+## Decisões de design
 
+### Fase 10 — Cheiros e antídotos
 - ISP: repositórios segregados em leitura (`IReadRepository`) e escrita (`IWriteRepository`), mantendo compatibilidade via `IRepository` composto.
 - Policy Object: parâmetros de exportação agrupados em `ExportPolicy` para reduzir listas longas e facilitar evolução.
 - Catálogo único: escolha de formatadores centralizada em `FormatterCatalog`, abrindo extensão sem espalhar `if/else`.
 - Polimorfismo no cliente: `Renderer` depende de `ITextFormatter`, eliminando downcasts e acoplamento a concretos.
 - Seam de I/O: `DocumentRepository` usa `IFileStore`, permitindo dublê em memória para testes sem tocar disco.
+
+### Fase 11 — Mini-projeto de consolidação
+- **Contratos ISP**: `IReadRepository<T,TId>` e `IWriteRepository<T,TId>` segregados; cliente injeta apenas necessário.
+- **Repository duplo**: `InMemoryRepository` (dublê, sem I/O) + `CsvBookRepository` (persistência real, testada com arquivo temporário).
+- **Serviço de domínio**: `CatalogService` centraliza lógica de negócio e validações, não espalha `if/switch`.
+- **Composição**: Constructor Injection; inversão de dependência clara.
+- **Testes**: 12 unitários (dubezs) + 4 integração (arquivo temp) cobrindo fluxos críticos e casos extremos.
+
+## Documentação complementar
+- [Arquitetura - Fase 11](docs/ARCHITECTURE.md)
